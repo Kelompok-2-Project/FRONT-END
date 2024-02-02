@@ -1,6 +1,6 @@
 # Red Store Ecommerce
 
-![App Screenshot](https://raw.githubusercontent.com/Kelompok-2-Project/FRONT-END/blob/main/src/assets/brand.png)
+![App Screenshot](https://github.com/Kelompok-2-Project/FRONT-END/blob/main/src/assets/brand.png)
 
 ## 🌐 Deployment
 
