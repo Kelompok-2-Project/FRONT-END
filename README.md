@@ -17,7 +17,7 @@
 
 ## ⚙ Backend
 
-- [Github Repo Wanderer BE](https://github.com/Kelompok-2-Project/BACK-END)
+- [Github Repo Red Store BE](https://github.com/Kelompok-2-Project/BACK-END)
 - [Swagger OpenAPI](https://app.swaggerhub.com/apis-docs/L3NONEONE_1/EcommerceAppProject/1.0.0#/User/get_users)
 
 ## 🛠️ Tech Stacks
