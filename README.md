@@ -17,7 +17,7 @@
 
 ## ⚙ Backend
 
-- [Github Repo Wanderer BE](https://github.com/Kelompok-2-Project/BACK-END)
+- [Github Repo Red Store BE](https://github.com/Kelompok-2-Project/BACK-END)
 - [Swagger OpenAPI](https://app.swaggerhub.com/apis-docs/L3NONEONE_1/EcommerceAppProject/1.0.0#/User/get_users)
 
 ## 🛠️ Tech Stacks
@@ -55,7 +55,7 @@ Clone this project
 
 - Alim Prasetyo
   [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimprasetyo77)
-- Gilang Radhan
+- Gilang Ramadhan
   [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gilangr1440)
 - Rachman Fangki Tubandri
   [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rfangki)
