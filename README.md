@@ -55,7 +55,7 @@ Clone this project
 
 - Alim Prasetyo
   [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimprasetyo77)
-- Gilang Radhan
+- Gilang Ramadhan
   [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gilangr1440)
 - Rachman Fangki Tubandri
   [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rfangki)
